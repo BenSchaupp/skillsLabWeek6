@@ -1,7 +1,7 @@
-name = input("What is your name?")
-age = input("What is your age?")
-print("Hello, " + name + ", you're " + age + " years old."
-
+name = input("What is your name?")                                    #Prompts the user to type in their name.
+age = input("What is your age?")                                      #Prompts the user to typr in their age.
+print("Hello, " + name + ", you're " + age + " years old.")           # Prints Hello (user's name) , you're (age they inputted)
+                                                                      # years old.
 
 
 
